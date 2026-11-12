@@ -1,0 +1,127 @@
+class,type,n_members,members
+ADA,interneuron,2,"ADAL, ADAR"
+ADE,sensory,2,"ADER, ADEL"
+ADF,sensory,2,"ADFL, ADFR"
+ADL,sensory,2,"ADLR, ADLL"
+AFD,sensory,2,"AFDL, AFDR"
+AIA,interneuron,2,"AIAL, AIAR"
+AIB,interneuron,2,"AIBL, AIBR"
+AIM,interneuron,2,"AIMR, AIML"
+AIN,interneuron,2,"AINR, AINL"
+AIY,interneuron,2,"AIYL, AIYR"
+AIZ,interneuron,2,"AIZL, AIZR"
+ALA,interneuron,1,ALA
+ALM,sensory,2,"ALMR, ALML"
+ALN,sensory,2,"ALNL, ALNR"
+AQR,sensory,1,AQR
+AS,motor,11,"AS11, AS10, AS4, AS1, AS3, AS2, AS5, AS7, AS8, AS6, AS9"
+ASEL,sensory,1,ASEL
+ASER,sensory,1,ASER
+ASG,sensory,2,"ASGL, ASGR"
+ASH,sensory,2,"ASHR, ASHL"
+ASI,sensory,2,"ASIL, ASIR"
+ASJ,sensory,2,"ASJL, ASJR"
+ASK,sensory,2,"ASKL, ASKR"
+AUA,interneuron,2,"AUAR, AUAL"
+AVA,interneuron,2,"AVAL, AVAR"
+AVB,interneuron,2,"AVBL, AVBR"
+AVD,interneuron,2,"AVDL, AVDR"
+AVE,interneuron,2,"AVER, AVEL"
+AVF,interneuron,2,"AVFL, AVFR"
+AVG,interneuron,1,AVG
+AVH,interneuron,2,"AVHR, AVHL"
+AVJ,interneuron,2,"AVJL, AVJR"
+AVK,interneuron,2,"AVKL, AVKR"
+AVL,interneuron,1,AVL
+AVM,sensory,1,AVM
+AWA,sensory,2,"AWAR, AWAL"
+AWB,sensory,2,"AWBL, AWBR"
+AWC,sensory,2,"AWCL, AWCR"
+BAG,sensory,2,"BAGL, BAGR"
+BDU,interneuron,2,"BDUL, BDUR"
+CEP,sensory,4,"CEPVR, CEPDL, CEPDR, CEPVL"
+DA,motor,8,"DA8, DA1, DA2, DA5, DA3, DA4, DA6, DA7"
+DA9,motor,1,DA9
+DB,motor,6,"DB7, DB2, DB3, DB4, DB5, DB6"
+DB01,motor,1,DB1
+DVA,sensory,1,DVA
+DVB,interneuron,1,DVB
+DVC,interneuron,1,DVC
+FLP,sensory,2,"FLPL, FLPR"
+HSN,motor,2,"HSNL, HSNR"
+I1,pharyngeal,2,"I1L, I1R"
+I2,pharyngeal,2,"I2L, I2R"
+I3,pharyngeal,1,I3
+I4,pharyngeal,1,I4
+I5,pharyngeal,1,I5
+I6,pharyngeal,1,I6
+IL1,sensory,6,"IL1DL, IL1L, IL1R, IL1DR, IL1VL, IL1VR"
+IL2_DV,sensory,4,"IL2DL, IL2DR, IL2VL, IL2VR"
+IL2_LR,sensory,2,"IL2R, IL2L"
+LUA,interneuron,2,"LUAR, LUAL"
+M1,pharyngeal,1,M1
+M2,pharyngeal,2,"M2L, M2R"
+M3,pharyngeal,2,"M3L, M3R"
+M4,pharyngeal,1,M4
+M5,pharyngeal,1,M5
+MC,pharyngeal,2,"MCL, MCR"
+MI,pharyngeal,1,MI
+NSM,pharyngeal,2,"NSML, NSMR"
+OLL,sensory,2,"OLLR, OLLL"
+OLQ,sensory,4,"OLQVR, OLQVL, OLQDL, OLQDR"
+PDA,motor,1,PDA
+PDB,motor,1,PDB
+PDE,sensory,2,"PDEL, PDER"
+PHA,sensory,2,"PHAL, PHAR"
+PHB,sensory,2,"PHBL, PHBR"
+PHC,sensory,2,"PHCL, PHCR"
+PLM,sensory,2,"PLML, PLMR"
+PLN,sensory,2,"PLNL, PLNR"
+PQR,sensory,1,PQR
+PVC,interneuron,2,"PVCL, PVCR"
+PVD,sensory,2,"PVDL, PVDR"
+PVM,sensory,1,PVM
+PVN,interneuron,2,"PVNL, PVNR"
+PVP,interneuron,2,"PVPR, PVPL"
+PVQ,interneuron,2,"PVQL, PVQR"
+PVR,interneuron,1,PVR
+PVT,interneuron,1,PVT
+PVW,interneuron,2,"PVWL, PVWR"
+RIA,interneuron,2,"RIAL, RIAR"
+RIB,interneuron,2,"RIBL, RIBR"
+RIC,interneuron,2,"RICL, RICR"
+RID,interneuron,1,RID
+RIF,interneuron,2,"RIFR, RIFL"
+RIG,interneuron,2,"RIGR, RIGL"
+RIH,interneuron,1,RIH
+RIM,interneuron,2,"RIML, RIMR"
+RIP,interneuron,2,"RIPL, RIPR"
+RIR,interneuron,1,RIR
+RIS,interneuron,1,RIS
+RIV,motor,2,"RIVL, RIVR"
+RMD_DV,motor,4,"RMDDL, RMDDR, RMDVL, RMDVR"
+RMD_LR,motor,2,"RMDR, RMDL"
+RME_DV,motor,2,"RMED, RMEV"
+RME_LR,motor,2,"RMER, RMEL"
+RMF,interneuron,2,"RMFL, RMFR"
+RMG,interneuron,2,"RMGR, RMGL"
+RMH,motor,2,"RMHL, RMHR"
+SAA,interneuron,4,"SAAVL, SAAVR, SAADL, SAADR"
+SAB,motor,2,"SABVL, SABVR"
+SDQ,sensory,2,"SDQL, SDQR"
+SIA,motor,4,"SIADL, SIAVR, SIADR, SIAVL"
+SIB,motor,4,"SIBVL, SIBDR, SIBVR, SIBDL"
+SMB,motor,4,"SMBDL, SMBVL, SMBDR, SMBVR"
+SMD,motor,4,"SMDVL, SMDDR, SMDDL, SMDVR"
+URA,motor,4,"URAVR, URADL, URADR, URAVL"
+URB,interneuron,2,"URBR, URBL"
+URX,sensory,2,"URXL, URXR"
+URY,sensory,4,"URYVR, URYDL, URYDR, URYVL"
+VA,motor,11,"VA2, VA9, VA1, VA6, VA8, VA5, VA11, VA3, VA10, VA4, VA7"
+VA12,motor,1,VA12
+VB,motor,9,"VB3, VB7, VB11, VB5, VB6, VB4, VB8, VB9, VB10"
+VB01,motor,1,VB1
+VB02,motor,1,VB2
+VC,motor,4,"VC2, VC1, VC6, VC3"
+VC_4_5,motor,2,"VC5, VC4"
+VD_DD,motor,19,"DD1, DD5, VD10, DD6, VD1, VD11, DD2, VD12, VD3, VD4, VD6, VD7, VD13, VD9, VD2, DD3, VD5, DD4, VD8"
