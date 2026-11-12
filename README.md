@@ -20,8 +20,10 @@ If you use this repository in any fashion in your own work, please cite our work
 
 | Path | Role |
 |---|---|
-| `data_preprocessing.ipynb` | File that preprocesses the data |
-| `analysis_1.ipynb` | Code to conduct analysis 1 | 
+| `code/data_preprocessing.ipynb` | File that preprocesses the data |
+| `code/analysis_1.ipynb` | Code to conduct analysis 1 | 
+| `data/021821_stringent_threshold4.csv` | Expression Data | 
+| `data/TFLink_Caenorhabditis_elegans_interactions_All_GMT_proteinName_v1.0.gmt` | Transcription Factor Data |
 
 ## Installation
 
