@@ -20,7 +20,8 @@ If you use this repository in any fashion in your own work, please cite our work
 
 | Path | Role |
 |---|---|
-| `<FILENAME HERE>` | <WHAT THE FILE IS OR WHAT IT DOES> |
+| `data_preprocessing.ipynb` | File that preprocesses the data |
+| `analysis_1.ipynb` | Code to conduct analysis 1 | 
 
 ## Installation
 
