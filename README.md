@@ -1,4 +1,4 @@
-# YOUR TITLE HERE
+# Mapping Gene-Regulatory Network Influence on Neural Network Connectivity
 
 The repository contains code accompanying the following paper: <AUTHOR LIST>, TITLE (<YEAR>).
 
@@ -32,10 +32,9 @@ pip install -r requirements.txt
 
 ## Authors
 
-- <AUTHOR 1>
-- <AUTHOR 2>
-- <AUTHOR 3>
-- <AUTHOR 4>
+- Kiran Kondapani
+- Michael Hunter
+- Sai Sahvir Bhaskaurni
 
 ## License
 
