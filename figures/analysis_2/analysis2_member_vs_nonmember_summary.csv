@@ -1,0 +1,9 @@
+type,is_member,spearman_vs_type,spearman_vs_type_loo,top5_overlap_jaccard,top5_overlap_jaccard_loo,n_sig_sets,status
+interneuron,False,,,,,0,no significant gene sets (FDR < 0.05); best FDR = 0.225
+interneuron,True,,,,,0,no significant gene sets (FDR < 0.05); best FDR = 0.225
+motor,False,,,,,0,no significant gene sets (FDR < 0.05); best FDR = 0.337
+motor,True,,,,,0,no significant gene sets (FDR < 0.05); best FDR = 0.337
+pharyngeal,False,0.04395440175768912,0.05317604065679356,0.33623866213151926,0.33623866213151926,64,analysed
+pharyngeal,True,0.38242530613650433,0.3078300907219327,0.37329931972789115,0.37329931972789115,64,analysed
+sensory,False,-0.025166832128159605,-0.010960870021742378,0.24393358876117496,0.24233716475095785,60,analysed
+sensory,True,0.2009604722710323,0.16499049067890043,0.19586894586894588,0.19586894586894588,60,analysed
